@@ -1,0 +1,32 @@
+[
+    {
+      "titulo": "Lanzamiento de Nueva Plataforma de eCommerce",
+      "fecha": "2024-11-02",
+      "contenido": "Hemos lanzado una plataforma de eCommerce innovadora para ayudar a pequeños negocios a digitalizar sus ventas de manera rápida y segura.",
+      "imagen": "./images/noticias1.png"
+    },
+    {
+      "titulo": "Actualización de Seguridad en Aplicaciones Web",
+      "fecha": "2024-10-28",
+      "contenido": "Implementamos nuevas medidas de seguridad en todas nuestras aplicaciones web para proteger los datos de nuestros clientes.",
+      "imagen": "./images/noticias2.png"
+    },
+    {
+      "titulo": "Nueva Funcionalidad en CRM Empresarial",
+      "fecha": "2024-10-15",
+      "contenido": "Nuestro CRM ahora incluye funciones avanzadas de automatización para mejorar la gestión de clientes y optimizar los procesos de ventas.",
+      "imagen": "./images/noticias3.png"
+    },
+    {
+      "titulo": "Mejora de Rendimiento en Sitios Web",
+      "fecha": "2024-10-10",
+      "contenido": "Optimizamos el rendimiento de nuestros sitios web, garantizando tiempos de carga más rápidos y mejor experiencia de usuario.",
+      "imagen": "./images/noticias4.png"
+    },
+    {
+      "titulo": "Capacitación Interna en UX/UI",
+      "fecha": "2024-09-30",
+      "contenido": "Nuestro equipo de diseño participó en una capacitación avanzada en UX/UI para ofrecer soluciones más atractivas y funcionales a nuestros clientes.",
+      "imagen": "./images/noticias5.png"
+    }
+  ]
