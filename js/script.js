@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         <h3>${noticia.titulo}</h3>
                         <p><strong>Fecha:</strong> ${noticia.fecha}</p>
                         <p>${noticia.contenido}</p>
-                        ${noticia.imagen ? `<img src="${noticia.imagen}" alt="${noticia.titulo}">` : ""}
+                        ${noticia.imagen ? `<img src="${noticia.imagen}" alt="${noticia.titulo}" width="300" height="200">` : ""}
                     `;
                     contenedorNoticias.appendChild(noticiaElemento);
                 });
@@ -182,4 +182,8 @@ document.addEventListener("DOMContentLoaded", function() {
             alert("Tu navegador no soporta la geolocalización.");
         }
     }
+});
+
+$(document).ready(function () {
+    $('[data-toggle="lightbox"]').ekkoLightbox();
 });
